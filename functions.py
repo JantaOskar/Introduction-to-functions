@@ -1,4 +1,4 @@
-def multiply(x, y):
+def multiply(x: float, y: float) -> float:
     """
     Multiply two numbers.
     :param x: The first number to multiply.
@@ -9,7 +9,7 @@ def multiply(x, y):
     return result
 
 
-def is_palindrome(string):
+def is_palindrome(string: str) -> bool:
     """
     Check if a `string` is a palindrome.
 
@@ -23,7 +23,7 @@ def is_palindrome(string):
     return string[::-1].casefold() == string.casefold()
 
 
-def palindrome_sentence(sentence):
+def palindrome_sentence(sentence: str) -> bool:
     """
     Check if a `string` is a palindrome.
 
@@ -42,6 +42,27 @@ def palindrome_sentence(sentence):
     return is_palindrome(string)
 
 
+def fibonnaci(n: int) -> int:
+    """Return the `n` th Fibonnaci number, for positive `n`."""
+    if 0 <= n <= 1:
+        return n
+
+    n_minus1, n_minus2 = 1, 0
+
+    result = None
+    for f in range(n - 1):
+        result = n_minus2 + n_minus1
+        n_minus2 = n_minus1
+        n_minus1 = result
+
+    return result
+
+
+for i in range(36):
+    print(i, fibonnaci(i))
+
+p = fibonnaci()
+
 # sentence_input = input("Please enter a sentence to check: ")
 # if palindrome_sentence(sentence_input):
 #     print("'{}' is a palindrome".format(sentence_input))
@@ -54,8 +75,8 @@ def palindrome_sentence(sentence):
 # else:
 #     print("'{}' is not a palindrome".format(word))
 
-answer = multiply(18, 3)
-print(answer)
+# answer = multiply(18, 3)
+# print(answer)
 
 #
 # answer = multiply(10.5, 4)

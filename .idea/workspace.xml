@@ -8,7 +8,6 @@
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/banner.py" beforeDir="false" afterPath="$PROJECT_DIR$/banner.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/functions.py" beforeDir="false" afterPath="$PROJECT_DIR$/functions.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/guessinggameelse.py" beforeDir="false" afterPath="$PROJECT_DIR$/guessinggameelse.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,7 +48,7 @@
       <recent name="C:\Users\Marianug\IdeaProjects\functions_intro" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.guessinggameelse">
+  <component name="RunManager" selected="Python.functions">
     <configuration name="Sum_odd_or_even_challange" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="functions_intro" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -157,9 +156,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.functions" />
         <item itemvalue="Python.guessinggameelse" />
         <item itemvalue="Python.banner" />
-        <item itemvalue="Python.functions" />
         <item itemvalue="Python.Sum_odd_or_even_challange_but_better" />
         <item itemvalue="Python.Sum_odd_or_even_challange" />
       </list>
