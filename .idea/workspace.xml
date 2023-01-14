@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="883ecb79-abac-42a2-b57a-859e912d958f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/fizz_buzz.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fizz_buzz.py" beforeDir="false" afterPath="$PROJECT_DIR$/fizz_buzz.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
