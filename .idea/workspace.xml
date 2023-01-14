@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="883ecb79-abac-42a2-b57a-859e912d958f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Factorial_function.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fizz_buzz.py" beforeDir="false" afterPath="$PROJECT_DIR$/fizz_buzz.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,8 +63,8 @@
       <recent name="C:\Users\Marianug\IdeaProjects\functions_intro" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.fizz_buzz">
-    <configuration name="banner" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.Factorial_function">
+    <configuration name="Factorial_function" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="functions_intro" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -76,7 +76,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/banner.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Factorial_function.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -171,11 +171,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Factorial_function" />
         <item itemvalue="Python.fizz_buzz" />
         <item itemvalue="Python.hilo_test" />
         <item itemvalue="Python.colour_print" />
         <item itemvalue="Python.guessinggame2" />
-        <item itemvalue="Python.banner" />
       </list>
     </recent_temporary>
   </component>
